@@ -10,6 +10,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Console {
+	// nefunkcni kod
 	/*
 	static String login = null;
 	static String password = null;
