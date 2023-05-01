@@ -10,7 +10,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Console {
-	
+	/*
 	static String login = null;
 	static String password = null;
 	static Connection con = null;
@@ -73,7 +73,7 @@ public class Console {
 		return false;
 	}
 
-	
+	*/
 	public static int pouzeCelaCisla(Scanner sc) 
 	{
 		int cislo = 0;
@@ -109,7 +109,7 @@ public class Console {
 		
 		boolean run=true;
 		boolean run2=false;
-		
+		/*
 		if(connect())
 		{
 			System.out.println("Databázi se podařilo připojit");
@@ -119,7 +119,7 @@ public class Console {
 		{
 			System.out.println("Databázi se nepodařilo připojit");
 		}
-		
+		*/
 		while(run)
 		{
 			System.out.println(newLine +"Vyberte pozadovanou cinnost:");
